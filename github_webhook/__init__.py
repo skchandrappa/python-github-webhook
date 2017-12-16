@@ -4,7 +4,7 @@
 
     Very simple, but powerful, microframework for writing Github webhooks in Python.
 
-    :copyright: (c) 2016 by Bloomberg Finance L.P.
+    :copyright: (c) 2016 by Bloomberg Finance L.P.--
     :license: Apache License, Version 2.0
 """
 
